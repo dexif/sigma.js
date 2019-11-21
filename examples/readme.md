@@ -1,51 +1,51 @@
-[Merging master and resolving conflicts](add-node-on-click.html)
+[add-node-on-click](add-node-on-click.html)
 
-[Merging master and resolving conflicts](animate.html)
+[animate](animate.html)
 
-[Merging master and resolving conflicts](api-candy.html)
+[api-candy](api-candy.html)
 
-[Restoring examples to their original state](basic.html)
+[basic](basic.html)
 
-[Merging master and resolving conflicts](custom-edge-renderer.html)
+[custom-edge-renderer](custom-edge-renderer.html)
 
-[Merging master and resolving conflicts](custom-node-renderer.html)
+[custom-node-renderer](custom-node-renderer.html)
 
-[Linting](drag-nodes.html)
+[drag-nodes](drag-nodes.html)
 
-[Merging master and resolving conflicts](edge-renderers.html)
+[edge-renderers](edge-renderers.html)
 
-[Merging master and resolving conflicts](events.html)
+[events](events.html)
 
-[Merging master and resolving conflicts](filters.html)
+[filters](filters.html)
 
-[Restoring examples to their original state](force.html)
+[force](force.html)
 
-[Merging master and resolving conflicts](load-external-gexf.html)
+[load-external-gexf](load-external-gexf.html)
 
-[Merging master and resolving conflicts](load-external-json.html)
+[load-external-json](load-external-json.html)
 
-[[Cypher plugin]: PR jacomyal#677](load-neo4j-cypher-query.html)
+[load-neo4j-cypher-query](load-neo4j-cypher-query.html)
 
-[Merging master and resolving conflicts](neighborhoods-plugin.html)
+[neighborhoods-plugin](neighborhoods-plugin.html)
 
-[Change noverlap methods to attach to sigma prototype and update nover…](noverlap.html)
+[noverlap](noverlap.html)
 
-[test labels for self-loop edges](parallel-edges.html)
+[parallel-edges](parallel-edges.html)
 
-[Merging master and resolving conflicts](plugin-customEdgeShapes.html)
+[plugin-customEdgeShapes](plugin-customEdgeShapes.html)
 
-[Merging master and resolving conflicts](plugin-customShapes.html)
+[plugin-customShapes](plugin-customShapes.html)
 
-[Changed the name of the renderers to dotCurvedArrow and dotCurve.](plugin-edgeDots.html)
+[plugin-edgeDots](plugin-edgeDots.html)
 
-[Merging master and resolving conflicts](plugin-snapshot.html)
+[plugin-snapshot](plugin-snapshot.html)
 
-[Merging master and resolving conflicts](scrollable-page.html)
+[scrollable-page](scrollable-page.html)
 
-[Merging master and resolving conflicts](share-camera.html)
+[share-camera](share-camera.html)
 
-[Fix jacomyal#483 - faulty svg export classes optimizations](svg-export.html)
+[svg-export](svg-export.html)
 
-[Merging master and resolving conflicts](svg-freestyle-renderer.html)
+[svg-freestyle-renderer](svg-freestyle-renderer.html)
 
-[Merging master and resolving conflicts](svg-renderer.html)
+[svg-renderer](svg-renderer.html)
